@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Nas_pro_online_cms_desi_add_spnner_view_listview_crud_2</string>
+
+    <string-array name="DESIGNATION">
+        <item>Select Designation</item>
+    </string-array>
+
+</resources>

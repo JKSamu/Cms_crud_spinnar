@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    tools:context=".Reg_form_2">
+
+
+
+
+
+        <android.support.v7.widget.AppCompatSpinner
+            android:id="@+id/designation"
+            android:layout_width="300dp"
+            android:layout_height="38sp"
+            android:entries="@array/DESIGNATION"
+            android:inputType="textPersonName" />
+
+
+<Button
+    android:id="@+id/b_refresh"
+    android:layout_width="50dp"
+    android:layout_height="50dp"
+    android:background="@drawable/ic_autorenew_black_24dp"
+
+
+        ></Button>
+
+
+</LinearLayout>

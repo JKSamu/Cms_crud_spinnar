@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Cms_crud_spinnar'
